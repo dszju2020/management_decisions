@@ -1,0 +1,265 @@
+Bulk density,Initial C/N ratio,Initial moisture content,Initial pH,Composting duration,Reactor volume,Composting type,Bulking agent type,Treatment condition,Turning regime,Aeration regime,Score
+0.33,24.4,61.37,5.1,8,180,Single-material composting,Rice husk,No adjustment,Fixed turning,Fixed intermittent aeration,75.21
+0.15,21.47,60.95,5.65,91,45000,Single-material composting,Wood chips,No adjustment,Fixed turning,Fixed continuous aeration,83.2
+0.13,30.83,80.12,5.41,150,10000,Single-material composting,Leaves,Adjustment of initial C/N or moisture content,Fixed turning,No aeration,80.43
+0.33,25,77.5,6.7,90,150,Single-material composting,Leaves,Physicochemical additive,Fixed turning,Fixed continuous aeration,33.74
+0.5,35.72,58.42,6.4,27,60,Single-material composting,Mixed bulking agents,Combined treatment,Variable turning,Fixed intermittent aeration,71.3
+0.33,26.04,60,4.66,42,30,Mixed-material composting,Wood chips,No adjustment,Fixed turning,Fixed continuous aeration,86.61
+0.32,19.74,67.81,7.686,20,30,Mixed-material composting,Crop stalk,No adjustment,Fixed turning,Fixed continuous aeration,75.86
+0.33,12.8,61.37,6.7,8,180,Single-material composting,Rice husk,No adjustment,Fixed turning,Fixed intermittent aeration,64.81
+0.33,20.1,61.37,7.17,60,350,Mixed-material composting,Other,Physicochemical additive,Fixed turning,Fixed continuous aeration,78.06
+0.58,25,61.37,5.1,15,60,Single-material composting,Crop stalk,No adjustment,Fixed turning,Fixed continuous aeration,74.85
+0.31,20.5,50,4.6,18,16,Single-material composting,No bulking agent,Adjustment of initial C/N or moisture content,Fixed turning,Fixed continuous aeration,72.89
+0.25,25,65,4.8,30,60,Single-material composting,Wheat bran,No adjustment,Fixed turning,Fixed continuous aeration,60.41
+0.33,25.73,61.37,4.541,35,60,Single-material composting,Leaves,No adjustment,Variable turning,Fixed continuous aeration,85.94
+0.58,25,61.37,5.2,15,60,Mixed-material composting,Crop stalk,No adjustment,Fixed turning,Fixed continuous aeration,80.44
+0.4,25.3,65.85,6.3541,40,65,Single-material composting,No bulking agent,Pretreatment,Fixed turning,Fixed continuous aeration,73.43
+0.33,13.7,37,6.3,90,60,Single-material composting,No bulking agent,Physicochemical additive,Fixed turning,Fixed continuous aeration,79.04
+0.21,33.1,47,7.7,33,120,Single-material composting,Other,Microbial inoculant,Fixed turning,Fixed intermittent aeration,84.62
+0.33,26.4,60,4.6,42,30,Mixed-material composting,Wood chips,No adjustment,Fixed turning,Fixed continuous aeration,85.94
+0.13,15.74,61.37,7.5,150,10000,Mixed-material composting,Other,Adjustment of initial C/N or moisture content,Fixed turning,No aeration,82.45
+0.27,31.41,64.98,6.221,30,30,Single-material composting,Wheat bran,Microbial inoculant,Fixed turning,Fixed continuous aeration,78.3
+0.2,27,70,5.8,40,40,Single-material composting,Wood chips,Pretreatment,Fixed turning,Fixed continuous aeration,78.91
+0.33,20.9,58.6,5.36,28,60,Single-material composting,Wheat bran,No adjustment,Fixed turning,Fixed intermittent aeration,82.63
+0.33,25,60,7.5,25,20,Single-material composting,Mixed bulking agents,Adjustment of initial C/N or moisture content,Fixed turning,Fixed continuous aeration,82.72
+0.33,25,77.5,6.7,90,150,Single-material composting,Leaves,Physicochemical additive,Fixed turning,Fixed continuous aeration,33.15
+0.33,18.28,60.78,4.4,35,60,Single-material composting,Crop stalk,No adjustment,Fixed turning,Fixed intermittent aeration,87.77
+0.33,29.9,61.37,4.6809,35,60,Single-material composting,Leaves,No adjustment,Variable turning,Fixed continuous aeration,88.36
+0.3,20.1,48.83,6.696,28,10,Single-material composting,Rice husk,No adjustment,Fixed turning,Fixed continuous aeration,79.39
+0.5,25,73.4,4.6,15,12,Single-material composting,No bulking agent,Microbial inoculant,Fixed turning,Variable intermittent aeration,79.96
+0.33,28.14,26.51,6.9341,105,30,Mixed-material composting,No bulking agent,No adjustment,Fixed turning,Fixed continuous aeration,78.07
+0.25,25.3,58.98,5.0227,30,60,Single-material composting,Other,No adjustment,Fixed turning,Variable continuous aeration,71.66
+0.25,25,63,4.8,30,60,Single-material composting,Wheat bran,Microbial inoculant,Fixed turning,Fixed continuous aeration,61.34
+0.33,24.4,61.37,5.2,8,180,Single-material composting,Rice husk,No adjustment,Fixed turning,Fixed intermittent aeration,75.21
+0.33,24.65,61.37,4.44,35,60,Single-material composting,Leaves,Microbial inoculant,Fixed turning,Fixed continuous aeration,90.4
+0.33,20.9,61.37,6.2,10,60,Single-material composting,Crop stalk,Physicochemical additive,Fixed turning,Fixed continuous aeration,73.76
+0.33,30,62.69,6.72,50,60,Single-material composting,Crop stalk,No adjustment,Fixed turning,Fixed continuous aeration,86.85
+0.3,25.07,55.51,6.8648,15,10,Single-material composting,Rice husk,Adjustment of initial C/N or moisture content,Fixed turning,Fixed intermittent aeration,73.39
+0.3,25.24,55.3,6.85301,15,10,Single-material composting,Rice husk,Adjustment of initial C/N or moisture content,Fixed turning,Fixed intermittent aeration,73.4
+0.33,25,61.37,6.2,31,63000,Mixed-material composting,No bulking agent,No adjustment,Fixed turning,Fixed continuous aeration,76.79
+0.33,24.26,55.93,7.1714,105,30,Mixed-material composting,No bulking agent,No adjustment,Fixed turning,Fixed continuous aeration,76.93
+0.3,29.22,50.98,6.71585,21,10,Single-material composting,Rice husk,Combined treatment,Fixed turning,Fixed continuous aeration,73.18
+0.4,22.39,52.8,8.5,42,20,Single-material composting,Wood chips,Physicochemical additive,Fixed turning,Fixed continuous aeration,74.66
+0.33,25,60,6.2,35,2040,Single-material composting,No bulking agent,No adjustment,Fixed turning,Fixed continuous aeration,66.53
+0.33,25,61.37,6.2,30,60,Single-material composting,No bulking agent,Microbial inoculant,Fixed turning,Fixed continuous aeration,62.12
+0.3,21.3,59.1,7.4,20,30,Mixed-material composting,Crop stalk,No adjustment,Fixed turning,Fixed continuous aeration,78.93
+0.25,26.78,60,5.7345,30,60,Single-material composting,Wheat bran,Physicochemical additive,Fixed turning,Variable continuous aeration,71.14
+0.3,23.89,60.79,6.89037,21,10,Single-material composting,Rice husk,Combined treatment,Fixed turning,Fixed continuous aeration,73.27
+0.33,21,66.9,4,35,60,Mixed-material composting,Crop stalk,No adjustment,Fixed turning,Fixed intermittent aeration,85.07
+0.25,28.21,57.83,6.1593,30,60,Single-material composting,Wheat bran,Physicochemical additive,Fixed turning,Variable continuous aeration,71.21
+0.4,21.98,52.8,8.5,42,20,Single-material composting,Wood chips,Physicochemical additive,Fixed turning,Fixed continuous aeration,74.46
+0.33,21,71.8,7.1,30,60,Single-material composting,Crop stalk,Adjustment of initial C/N or moisture content,Fixed turning,Fixed intermittent aeration,76.15
+0.33,18.5,72.5,4.4,15,60,Single-material composting,No bulking agent,No adjustment,Fixed turning,Fixed continuous aeration,74.41
+0.33,20.4,68,6,30,300,Mixed-material composting,Wood chips,Microbial inoculant,No turning,Fixed continuous aeration,69.16
+0.3,34.46,49.58,6.51301,21,10,Single-material composting,Rice husk,Combined treatment,Fixed turning,Fixed continuous aeration,72.77
+0.27,20,67,7.21,20,30,Mixed-material composting,Crop stalk,No adjustment,Fixed turning,Fixed continuous aeration,84.46
+0.33,19,71.8,7.5,30,60,Single-material composting,Crop stalk,Adjustment of initial C/N or moisture content,Fixed turning,Fixed intermittent aeration,81.82
+0.33,18.5,70,6.2,12,30,Single-material composting,Mixed bulking agents,Adjustment of initial C/N or moisture content,Fixed turning,Fixed continuous aeration,72.47
+0.33,24.7,58.2,6.027,32,150,Single-material composting,No bulking agent,No adjustment,Fixed turning,Fixed continuous aeration,78.85
+0.15,31.33,64.9,4.95,91,45000,Single-material composting,Wood chips,No adjustment,Fixed turning,Fixed continuous aeration,83.69
+0.38,25.8,55,11.8,56,20,Single-material composting,Wood chips,No adjustment,Fixed turning,Fixed continuous aeration,85.27
+0.33,30,62.69,6.72,50,60,Single-material composting,Crop stalk,Microbial inoculant,Fixed turning,Fixed continuous aeration,88.33
+0.3,20.3,63.2,7.4,20,30,Mixed-material composting,Crop stalk,No adjustment,Fixed turning,Fixed continuous aeration,81.4
+0.3,34.91,60.59,6.43753,21,10,Single-material composting,Rice husk,Combined treatment,Fixed turning,Fixed continuous aeration,74.08
+0.33,24.65,61.37,4.44,35,60,Single-material composting,Leaves,Microbial inoculant,Fixed turning,Fixed continuous aeration,87.13
+0.24,25,65,6.7,30,430,Single-material composting,No bulking agent,Microbial inoculant,Fixed turning,Fixed continuous aeration,73.85
+0.33,33.7,55.5,11.7,35,20,Single-material composting,No bulking agent,Physicochemical additive,Fixed turning,Fixed continuous aeration,82.56
+0.2,29,74,5.6,22,60,Single-material composting,Wood chips,Physicochemical additive,Fixed turning,Fixed continuous aeration,82.5
+0.33,33.7,55.5,12,35,20,Single-material composting,No bulking agent,Physicochemical additive,Fixed turning,Fixed continuous aeration,83.3
+0.2,27,70,5.8,40,40,Single-material composting,Wood chips,Pretreatment,Fixed turning,Fixed continuous aeration,81.71
+0.33,20,66.9,5,35,60,Mixed-material composting,Crop stalk,No adjustment,Fixed turning,Fixed intermittent aeration,86.85
+0.33,21,61.37,6.2,10,60,Single-material composting,Other,Physicochemical additive,Fixed turning,Fixed continuous aeration,73.81
+0.33,25,78.94,5.22,15,10000,Single-material composting,No bulking agent,No adjustment,Fixed turning,Fixed intermittent aeration,62.29
+0.4,25,61.37,7.25,70,200,Single-material composting,Wood chips,No adjustment,Fixed turning,Fixed continuous aeration,69.97
+0.33,25,78.94,5.22,15,10000,Single-material composting,No bulking agent,No adjustment,Fixed turning,Fixed intermittent aeration,61.91
+0.3,19.5,63,7.3,20,30,Single-material composting,Crop stalk,Combined treatment,Fixed turning,Fixed continuous aeration,83.07
+0.33,23.4,64,6.5,30,300,Mixed-material composting,Wood chips,Microbial inoculant,No turning,Fixed continuous aeration,72.56
+0.5,25,72.5,4.55,15,12,Single-material composting,No bulking agent,Microbial inoculant,Fixed turning,Variable intermittent aeration,81.78
+0.4,25,52.44,10.6,42,20,Single-material composting,Wood chips,Physicochemical additive,Fixed turning,Fixed continuous aeration,82.36
+0.2,27,70,5.8,40,40,Single-material composting,Wood chips,Pretreatment,Fixed turning,Fixed continuous aeration,84.37
+0.33,17.2,61.37,7,60,350,Mixed-material composting,Other,Physicochemical additive,Fixed turning,Fixed continuous aeration,76.21
+0.33,25,65,7.2,25,20,Single-material composting,Mixed bulking agents,Adjustment of initial C/N or moisture content,Fixed turning,Fixed continuous aeration,82.34
+0.27,32.48,64.4,5.875,30,30,Single-material composting,Wheat bran,Microbial inoculant,Fixed turning,Fixed continuous aeration,81.14
+0.38,24.2,59,11,56,20,Single-material composting,No bulking agent,Physicochemical additive,Fixed turning,Fixed continuous aeration,88.85
+0.33,24,66.8,5.22,35,60,Single-material composting,Leaves,No adjustment,Variable turning,Fixed continuous aeration,75.32
+0.33,35,60,7.5,25,20,Single-material composting,Mixed bulking agents,Adjustment of initial C/N or moisture content,Fixed turning,Fixed continuous aeration,83.26
+0.4,18,52.44,11,42,20,Single-material composting,Wood chips,Physicochemical additive,Fixed turning,Fixed continuous aeration,81.5
+0.33,56.6,61.37,5,8,180,Single-material composting,Rice husk,No adjustment,Fixed turning,Fixed intermittent aeration,80.74
+0.33,16.2,60,6.2,12,30,Single-material composting,Mixed bulking agents,Adjustment of initial C/N or moisture content,Fixed turning,Fixed continuous aeration,70.55
+0.33,16.2,75,6.2,12,30,Single-material composting,Mixed bulking agents,Adjustment of initial C/N or moisture content,Fixed turning,Fixed continuous aeration,70.63
+0.5,18.46,54.83,6.53,27,60,Single-material composting,Mixed bulking agents,Combined treatment,Variable turning,Fixed intermittent aeration,74.5
+0.3,24.72,58,7.7754,90,1000,Single-material composting,Other,No adjustment,Variable turning,Fixed continuous aeration,50.63
+0.4,24.15,66.47,6.5,40,65,Single-material composting,No bulking agent,No adjustment,Fixed turning,Fixed intermittent aeration,73.9
+0.3,24.95,55.09,6.83415,15,10,Single-material composting,Rice husk,Adjustment of initial C/N or moisture content,Fixed turning,Fixed intermittent aeration,73.47
+0.33,25,62.5,6.2,49,50,Single-material composting,Wood chips,Combined treatment,Fixed turning,Fixed continuous aeration,80.32
+0.33,25.7,57.6,7.012,32,150,Single-material composting,No bulking agent,No adjustment,Fixed turning,Fixed continuous aeration,76.09
+0.33,16.6,61.37,5.2,8,180,Single-material composting,Rice husk,No adjustment,Fixed turning,Fixed intermittent aeration,70.74
+0.2,25,60,6,40,75,Single-material composting,Crop stalk,No adjustment,Fixed turning,Fixed continuous aeration,84.11
+0.33,14.2,61.37,7.36,60,350,Mixed-material composting,Other,Physicochemical additive,Fixed turning,Fixed continuous aeration,74.43
+0.33,30,65,7.5,25,20,Single-material composting,Mixed bulking agents,Adjustment of initial C/N or moisture content,Fixed turning,Fixed continuous aeration,82.76
+0.33,25.79,60,4.43,42,30,Single-material composting,Wood chips,No adjustment,Fixed turning,Fixed continuous aeration,85.2
+0.33,25,78.94,5.22,15,10000,Single-material composting,No bulking agent,No adjustment,Fixed turning,Fixed intermittent aeration,55.63
+0.33,14.09,62.5,4.7,15,60,Single-material composting,Wheat bran,No adjustment,Fixed turning,Fixed continuous aeration,83.39
+0.27,20,67,7.21,20,30,Mixed-material composting,Crop stalk,No adjustment,Fixed turning,Fixed continuous aeration,82.51
+0.33,13.3,37.2,6.3,90,60,Single-material composting,No bulking agent,Physicochemical additive,Fixed turning,Fixed continuous aeration,78.54
+0.1,53.19,73.43,5.838,35,1000,Single-material composting,Wood chips,No adjustment,Fixed turning,Fixed intermittent aeration,84.12
+0.33,43,78,4.63,60,40,Single-material composting,Rice husk,No adjustment,Fixed turning,Fixed continuous aeration,75.53
+0.33,19.1,66.9,4.28,35,60,Single-material composting,Crop stalk,Physicochemical additive,Fixed turning,Fixed continuous aeration,46.1
+0.3,21.4,65,7,20,30,Mixed-material composting,Crop stalk,Pretreatment,Fixed turning,Fixed continuous aeration,86.65
+0.25,27,68,5.04,30,60,Single-material composting,Wheat bran,Microbial inoculant,Fixed turning,Fixed continuous aeration,81.43
+0.5,25.74,56.73,7.18,56,20,Single-material composting,Wood chips,Physicochemical additive,Fixed turning,Fixed continuous aeration,86.03
+0.21,15.3,55,8.7,33,120,Single-material composting,Other,Microbial inoculant,Fixed turning,Fixed intermittent aeration,79.91
+0.25,25,62,4.8,30,60,Single-material composting,Wheat bran,Microbial inoculant,Fixed turning,Fixed continuous aeration,67.9
+0.33,25,60.53,6.2,30,60,Single-material composting,Crop stalk,No adjustment,Fixed turning,Fixed continuous aeration,66.59
+0.33,29.96,60.63,6.9766,21,20,Single-material composting,Mixed bulking agents,Microbial inoculant,Fixed turning,Fixed continuous aeration,85.41
+0.13,51.28,87.1,4.41,150,10000,Single-material composting,No bulking agent,Adjustment of initial C/N or moisture content,Fixed turning,No aeration,78.83
+0.4,25,52.44,11.7,42,20,Single-material composting,Wood chips,Physicochemical additive,Fixed turning,Fixed continuous aeration,83.42
+0.4,23.45,64.89,6.2436,35,65,Single-material composting,No bulking agent,No adjustment,Fixed turning,Fixed intermittent aeration,74.49
+0.2,27,70,5.08,40,40,Single-material composting,Wood chips,Microbial inoculant,Fixed turning,Fixed continuous aeration,82.21
+0.33,32.5,57.78,6.5,28,60,Single-material composting,Wood chips,No adjustment,Fixed turning,Fixed intermittent aeration,81.09
+0.25,31,63,7.3,26,20,Mixed-material composting,Crop stalk,Physicochemical additive,Fixed turning,Fixed continuous aeration,85.54
+0.4,25,52.44,5.2,42,20,Single-material composting,Wood chips,No adjustment,Fixed turning,Fixed continuous aeration,82
+0.33,15,71.8,7.6,30,60,Single-material composting,Crop stalk,Adjustment of initial C/N or moisture content,Fixed turning,Fixed intermittent aeration,79.21
+0.33,32,83,4.4,60,40,Single-material composting,Rice husk,No adjustment,Fixed turning,Fixed continuous aeration,74.52
+0.24,25,65,6.7,30,430,Single-material composting,No bulking agent,Microbial inoculant,Fixed turning,Fixed continuous aeration,72.65
+0.2,27,70,5.08,40,40,Single-material composting,Wood chips,Microbial inoculant,Fixed turning,Fixed continuous aeration,79.78
+0.33,25,61.37,6.2,30,60,Single-material composting,Crop stalk,Combined treatment,Fixed turning,Fixed continuous aeration,62.12
+0.33,34.15,51.53,7.0669,60,60,Single-material composting,No bulking agent,Adjustment of initial C/N or moisture content,Fixed turning,Fixed continuous aeration,69.8
+0.5,25,72.5,4.55,15,12,Single-material composting,No bulking agent,Microbial inoculant,Fixed turning,Variable intermittent aeration,81.54
+0.21,31.4,57,7.7,33,120,Single-material composting,Other,Microbial inoculant,Fixed turning,Fixed intermittent aeration,82.68
+0.21,14.8,63,8.6,33,120,Single-material composting,Other,Microbial inoculant,Fixed turning,Fixed intermittent aeration,79.73
+0.5,35.65,55.47,6.63,27,60,Single-material composting,Mixed bulking agents,No adjustment,Fixed turning,Fixed intermittent aeration,71.93
+0.33,30,54.59,6.5217,120,400000,Single-material composting,Wood chips,No adjustment,Fixed turning,Fixed intermittent aeration,67.25
+0.38,23.2,56,11.9,56,20,Single-material composting,Wood chips,Physicochemical additive,Fixed turning,Fixed continuous aeration,83.52
+0.3,20.38,51.48,6.503,28,10,Single-material composting,Rice husk,Microbial inoculant,Fixed turning,Fixed continuous aeration,78.58
+0.3,23.27,49.92,6.71111,21,10,Single-material composting,Rice husk,Combined treatment,Fixed turning,Fixed continuous aeration,73.54
+0.32,26.28,60,5.8,49,50,Single-material composting,Wood chips,Combined treatment,Fixed turning,Fixed continuous aeration,77.41
+0.1,53.19,66.32,4.825,35,1000,Single-material composting,Wood chips,No adjustment,Fixed turning,Fixed intermittent aeration,83.32
+0.3,19.5,63,7.1,20,30,Single-material composting,Crop stalk,Combined treatment,Fixed turning,Fixed continuous aeration,83.27
+0.33,25,61.37,6.2,90,60,Single-material composting,No bulking agent,No adjustment,Variable turning,Fixed continuous aeration,69.34
+0.63,23.25,65.02,5,30,60,Single-material composting,Other,No adjustment,Fixed turning,Fixed continuous aeration,75.92
+0.33,24,66.8,5.12,35,60,Single-material composting,Leaves,No adjustment,Variable turning,Fixed continuous aeration,75.32
+0.33,25,77.5,6.7,90,150,Single-material composting,Leaves,Physicochemical additive,Fixed turning,Fixed continuous aeration,31.67
+0.33,25,60,6.2,35,2040,Single-material composting,No bulking agent,Physicochemical additive,Fixed turning,Fixed continuous aeration,67.39
+0.33,25,66.9,4,35,60,Single-material composting,Crop stalk,No adjustment,Fixed turning,Fixed intermittent aeration,84.59
+0.27,32.3,66.72,5.75,30,30,Single-material composting,Wheat bran,No adjustment,Fixed turning,Fixed continuous aeration,83.4
+0.25,31,63,7.2,26,20,Mixed-material composting,Crop stalk,No adjustment,Fixed turning,Fixed continuous aeration,83.2
+0.2,32,73,5.1,22,60,Single-material composting,Wood chips,No adjustment,Fixed turning,Fixed continuous aeration,80.54
+0.33,23.9,61.37,7.38,60,350,Mixed-material composting,Other,Physicochemical additive,Fixed turning,Fixed continuous aeration,82.34
+0.35,26.01,68.96,3.59,9,20,Single-material composting,Wood chips,No adjustment,No turning,No aeration,78.16
+0.33,25,60.53,6.2,30,60,Single-material composting,Crop stalk,No adjustment,Fixed turning,Fixed continuous aeration,66.59
+0.33,44.68,72.11,5.1,26,60,Single-material composting,Crop stalk,No adjustment,No turning,Fixed continuous aeration,80.27
+0.33,25,61.37,6.2,90,60,Single-material composting,No bulking agent,No adjustment,Variable turning,Fixed continuous aeration,73.51
+0.33,13.9,60,6.2,12,30,Single-material composting,Mixed bulking agents,Adjustment of initial C/N or moisture content,Fixed turning,Fixed continuous aeration,68.46
+0.25,21,75.06,4.2814,30,60,Single-material composting,No bulking agent,No adjustment,Fixed turning,Variable continuous aeration,71.11
+0.32,26.28,60,5.8,49,50,Single-material composting,Wood chips,Combined treatment,Fixed turning,Fixed continuous aeration,76.56
+0.33,22.1,66.9,5.01,35,60,Single-material composting,Crop stalk,No adjustment,Fixed turning,Fixed continuous aeration,41.21
+0.35,8.8,53.5,8.1,29,20,Single-material composting,Other,Adjustment of initial C/N or moisture content,Fixed turning,Fixed continuous aeration,55.02
+0.39,25,61.37,6.2,47,7.7,Single-material composting,Rice husk,Adjustment of initial C/N or moisture content,Fixed turning,Fixed continuous aeration,63.22
+0.25,26.92,57.97,5.9292,30,60,Single-material composting,Wheat bran,Physicochemical additive,Fixed turning,Variable continuous aeration,71.42
+0.35,28.7,56.2,7.9,29,20,Single-material composting,Mixed bulking agents,Adjustment of initial C/N or moisture content,Fixed turning,Fixed continuous aeration,80.57
+0.33,16.8,47.5,5.04,28,60,Single-material composting,Wheat bran,No adjustment,Fixed turning,Fixed intermittent aeration,87.3
+0.33,26.2,59.34,5,30,60,Single-material composting,Crop stalk,No adjustment,Fixed turning,Fixed continuous aeration,79.96
+0.21,25.3,59,7.6,33,120,Single-material composting,Other,Microbial inoculant,Fixed turning,Fixed intermittent aeration,81.35
+0.33,25,78.94,5.22,15,10000,Single-material composting,No bulking agent,No adjustment,Fixed turning,Fixed continuous aeration,55.61
+0.33,25,62.5,6.2,49,50,Single-material composting,Wood chips,Combined treatment,Fixed turning,Fixed continuous aeration,79.63
+0.33,19.6,60,6.2,12,30,Single-material composting,Mixed bulking agents,Adjustment of initial C/N or moisture content,Fixed turning,Fixed continuous aeration,73.14
+0.33,21.26,62.5,4.7,15,60,Single-material composting,Wood chips,No adjustment,Fixed turning,Fixed continuous aeration,76.48
+0.33,21,61.37,6.2,10,60,Single-material composting,Other,Physicochemical additive,Fixed turning,Fixed continuous aeration,73.81
+0.3,24.15,58,7.8742,90,1000,Single-material composting,Other,No adjustment,Variable turning,Fixed continuous aeration,49.05
+0.3,20.74,50.03,6.596,28,10,Single-material composting,Rice husk,Microbial inoculant,Fixed turning,Fixed continuous aeration,75
+0.33,39.72,51.06,8.133,60,60,Single-material composting,No bulking agent,Physicochemical additive,Fixed turning,Fixed continuous aeration,69.32
+0.31,24,45,5,18,16,Single-material composting,No bulking agent,Adjustment of initial C/N or moisture content,Fixed turning,Fixed continuous aeration,76.57
+0.4,24.15,66.47,6.3899,40,65,Single-material composting,No bulking agent,No adjustment,Fixed turning,Fixed intermittent aeration,73.89
+0.33,19.3,69.6,5.3,30,60,Single-material composting,Crop stalk,No adjustment,Fixed turning,Fixed continuous aeration,80.25
+0.4,23.45,64.11,6.3076,35,65,Single-material composting,No bulking agent,No adjustment,Fixed turning,Fixed intermittent aeration,74.38
+0.3,22.8,65,7,20,30,Mixed-material composting,Crop stalk,Pretreatment,Fixed turning,Fixed continuous aeration,88.22
+0.5,25,73.4,4.6,15,12,Single-material composting,No bulking agent,Microbial inoculant,Fixed turning,Variable intermittent aeration,81.24
+0.33,19.1,69.6,5.7,30,60,Single-material composting,Crop stalk,No adjustment,Fixed turning,Fixed continuous aeration,84.97
+0.5,25,72.5,4.55,15,12,Single-material composting,No bulking agent,Microbial inoculant,Fixed turning,Variable intermittent aeration,81.83
+0.33,8.77,59.25,6.5316,25,5,Mixed-material composting,No bulking agent,No adjustment,Fixed turning,Fixed continuous aeration,67.47
+0.33,26.7,70,6.3,30,300,Mixed-material composting,Wood chips,Microbial inoculant,No turning,Fixed continuous aeration,77.32
+0.33,14.5,50,6.2,12,30,Single-material composting,Mixed bulking agents,Adjustment of initial C/N or moisture content,Fixed turning,Fixed continuous aeration,68.57
+0.33,25.1,59.32,7.5,56,20,Single-material composting,No bulking agent,No adjustment,Fixed turning,Fixed continuous aeration,82.73
+0.33,24.65,61.37,4.44,35,60,Single-material composting,Leaves,No adjustment,Fixed turning,Fixed continuous aeration,87.05
+0.33,25,77.5,6.7,90,150,Single-material composting,Leaves,No adjustment,Fixed turning,Fixed continuous aeration,6.79
+0.33,28.8,56.5,6.2,56,20,Single-material composting,Other,No adjustment,Fixed turning,Fixed continuous aeration,71.36
+0.33,25,61.37,6.1,17,60,Single-material composting,Leaves,Combined treatment,Fixed turning,Fixed continuous aeration,73.41
+0.33,23.3,61.37,7.51,60,350,Mixed-material composting,Other,Physicochemical additive,Fixed turning,Fixed continuous aeration,84.39
+0.35,7.7,72.5,8.3,29,20,Single-material composting,No bulking agent,Adjustment of initial C/N or moisture content,Fixed turning,Fixed continuous aeration,52.11
+0.33,74,76,4.69,60,40,Single-material composting,Rice husk,No adjustment,Fixed turning,Fixed continuous aeration,80.99
+0.33,21,61.37,6.2,10,60,Single-material composting,Other,Physicochemical additive,Fixed turning,Fixed continuous aeration,73.81
+0.33,25.73,61.37,4.754,35,60,Single-material composting,Crop stalk,No adjustment,Variable turning,Fixed continuous aeration,83.18
+0.33,30.5,61.37,6.4,8,180,Single-material composting,Rice husk,No adjustment,Fixed turning,Fixed intermittent aeration,76.63
+0.4,24,52.44,11.7,42,20,Single-material composting,Wood chips,Physicochemical additive,Fixed turning,Fixed continuous aeration,82.91
+0.33,25.1,59.32,7.5,56,20,Single-material composting,No bulking agent,No adjustment,Fixed turning,Fixed continuous aeration,75.73
+0.33,21.5,61.37,4.4444,35,60,Single-material composting,Leaves,No adjustment,Variable turning,Fixed continuous aeration,79
+0.33,25,62.5,6.2,49,50,Single-material composting,Wood chips,Combined treatment,Fixed turning,Fixed continuous aeration,79.78
+0.33,36.1,49.05,5.7584,60,60,Single-material composting,No bulking agent,Physicochemical additive,Fixed turning,Fixed continuous aeration,67.94
+0.25,31,63,7.2,26,20,Mixed-material composting,Crop stalk,Physicochemical additive,Fixed turning,Fixed continuous aeration,84.58
+0.33,24.65,61.37,4.44,35,60,Single-material composting,Leaves,Microbial inoculant,Fixed turning,Fixed continuous aeration,86.97
+0.33,25,61.37,5.102,18,60,Single-material composting,No bulking agent,Pretreatment,Fixed turning,Fixed continuous aeration,56.73
+0.57,23.3,55.1,4.9,60,140,Single-material composting,Leaves,No adjustment,Fixed turning,Fixed continuous aeration,77.95
+0.3,19.25,49.03,6.589,28,10,Single-material composting,Rice husk,Microbial inoculant,Fixed turning,Fixed continuous aeration,79.47
+0.33,29.81,60.77,7.0365,21,20,Single-material composting,Mixed bulking agents,Microbial inoculant,Fixed turning,Fixed continuous aeration,83.66
+0.33,19,63.55,6.2,30,60,Single-material composting,Crop stalk,No adjustment,Fixed turning,Fixed continuous aeration,72.99
+0.2,25,60,6,40,75,Single-material composting,Leaves,No adjustment,Fixed turning,Fixed continuous aeration,84.11
+0.7,16.73,75.1,5,30,60,Single-material composting,No bulking agent,No adjustment,Fixed turning,Fixed continuous aeration,75.61
+0.25,25,65,4.8,30,60,Single-material composting,Wheat bran,Microbial inoculant,Fixed turning,Fixed continuous aeration,66.45
+0.33,24,61.37,7.22,60,350,Mixed-material composting,Other,Physicochemical additive,Fixed turning,Fixed continuous aeration,83.48
+0.21,30.8,65,8,33,120,Single-material composting,Other,Microbial inoculant,Fixed turning,Fixed intermittent aeration,81.83
+0.33,25,78.94,5.22,15,10000,Single-material composting,No bulking agent,No adjustment,Fixed turning,Fixed intermittent aeration,64.96
+0.33,25,61.37,6.2,31,63000,Mixed-material composting,No bulking agent,No adjustment,Fixed turning,Fixed continuous aeration,77.49
+0.52,25.77,61.69,5.6,30,60,Single-material composting,Wood chips,No adjustment,Fixed turning,Fixed continuous aeration,76.23
+0.33,25,78.94,5.22,15,10000,Single-material composting,No bulking agent,No adjustment,Fixed turning,Fixed intermittent aeration,54.64
+0.33,26.2,84.1,5.7,10,60,Single-material composting,No bulking agent,Pretreatment,Fixed turning,Fixed continuous aeration,81.72
+0.5,25,72.5,4.55,15,12,Single-material composting,No bulking agent,Microbial inoculant,Fixed turning,Variable intermittent aeration,81.4
+0.33,33.7,55.5,6.5,35,20,Single-material composting,No bulking agent,Physicochemical additive,Fixed turning,Fixed continuous aeration,70.23
+0.33,25,61.37,6.2,31,63000,Single-material composting,No bulking agent,No adjustment,Fixed turning,Fixed continuous aeration,71.4
+0.33,26.74,60,4.5,42,30,Mixed-material composting,Wood chips,No adjustment,Fixed turning,Fixed continuous aeration,85.55
+0.5,18.46,54.92,6.66,27,60,Single-material composting,Mixed bulking agents,No adjustment,Fixed turning,Fixed intermittent aeration,74.17
+0.33,28.8,56.5,7,56,20,Single-material composting,Other,Physicochemical additive,Fixed turning,Fixed continuous aeration,83.74
+0.33,24.4,61.37,5.5,8,180,Single-material composting,Rice husk,No adjustment,Fixed turning,Fixed intermittent aeration,75.21
+0.4,23.45,64.04,6.4231,35,65,Single-material composting,No bulking agent,No adjustment,Fixed turning,Fixed intermittent aeration,74.38
+0.5,25.74,56.73,7.18,56,20,Single-material composting,Wood chips,Physicochemical additive,Fixed turning,Fixed continuous aeration,87.8
+0.33,41.9,61.37,4.8,8,180,Single-material composting,Rice husk,No adjustment,Fixed turning,Fixed intermittent aeration,79.39
+0.31,25,40,4.8,18,16,Single-material composting,No bulking agent,Microbial inoculant,Fixed turning,Fixed continuous aeration,73.68
+0.13,50.47,61.37,6.5,150,10000,Mixed-material composting,No bulking agent,Adjustment of initial C/N or moisture content,Fixed turning,No aeration,86.11
+0.33,19,63.55,4.9,30,60,Single-material composting,Crop stalk,Physicochemical additive,Fixed turning,Fixed continuous aeration,74.78
+0.46,17.67,65.63,5.2,30,60,Single-material composting,Crop stalk,No adjustment,Fixed turning,Fixed continuous aeration,78.05
+0.33,32.19,69.7,6.7495,105,30,Mixed-material composting,No bulking agent,No adjustment,Fixed turning,Fixed continuous aeration,77.78
+0.33,26.28,58.25,6.607,9,60,Single-material composting,Leaves,No adjustment,Fixed turning,Fixed continuous aeration,83.83
+0.33,32,61.37,6.1,85,62,Single-material composting,Wood chips,Pretreatment,Variable turning,Fixed continuous aeration,80.79
+0.2,27,70,5.8,40,40,Single-material composting,Wood chips,Pretreatment,Fixed turning,Fixed continuous aeration,83.6
+0.5,33.68,55.49,6.64,27,60,Single-material composting,Mixed bulking agents,Combined treatment,Variable turning,Fixed intermittent aeration,72.73
+0.33,25,66.9,5.75,28,60,Single-material composting,No bulking agent,No adjustment,Fixed turning,Fixed intermittent aeration,76.89
+0.33,26.2,59.34,5.6,30,60,Single-material composting,Crop stalk,No adjustment,Fixed turning,Fixed continuous aeration,81.71
+0.33,16.2,60,6.2,12,30,Single-material composting,Mixed bulking agents,Adjustment of initial C/N or moisture content,Fixed turning,Fixed continuous aeration,70.55
+0.33,25,61.37,6.04,17,60,Single-material composting,Leaves,Combined treatment,Fixed turning,Fixed continuous aeration,67
+0.33,25.73,61.37,4.754,35,60,Single-material composting,Other,No adjustment,Variable turning,Fixed continuous aeration,84.21
+0.58,25,61.37,5.7,15,60,Mixed-material composting,Crop stalk,Microbial inoculant,Fixed turning,Fixed continuous aeration,84.32
+0.33,25,60.53,6.2,30,60,Single-material composting,Crop stalk,No adjustment,Fixed turning,Fixed continuous aeration,69.6
+0.33,38.74,59.43,6.873,60,60,Single-material composting,No bulking agent,Adjustment of initial C/N or moisture content,Fixed turning,Fixed continuous aeration,71.01
+0.33,25.25,60,4.77,42,30,Mixed-material composting,Wood chips,No adjustment,Fixed turning,Fixed continuous aeration,88.13
+0.33,25,61.37,5.244,18,60,Single-material composting,No bulking agent,Pretreatment,Fixed turning,Fixed continuous aeration,55.25
+0.2,29,30,5,22,60,Single-material composting,Wood chips,Physicochemical additive,Fixed turning,Fixed continuous aeration,82.77
+0.33,14.5,70,6.2,12,30,Single-material composting,Mixed bulking agents,Adjustment of initial C/N or moisture content,Fixed turning,Fixed continuous aeration,69
+0.33,25,61.37,6.2,90,60,Single-material composting,No bulking agent,Physicochemical additive,Variable turning,Fixed continuous aeration,74.4
+0.57,23.3,55.1,4.9,60,140,Single-material composting,Leaves,No adjustment,Fixed turning,Fixed continuous aeration,67.28
+0.3,29.49,58.94,6.78186,21,10,Single-material composting,Rice husk,Combined treatment,Fixed turning,Fixed continuous aeration,72.54
+0.3,19.5,63,7.28,20,30,Single-material composting,Crop stalk,Combined treatment,Fixed turning,Fixed continuous aeration,83.17
+0.3,33.49,54.96,6.71112,21,10,Single-material composting,Rice husk,Combined treatment,Fixed turning,Fixed continuous aeration,73.11
+0.33,21.02,61.37,5.5,10,60,Single-material composting,Wood chips,Physicochemical additive,Fixed turning,Fixed continuous aeration,74.08
+0.25,26.85,57.42,5.2389,30,60,Single-material composting,Wheat bran,No adjustment,Fixed turning,Variable continuous aeration,71.66
+0.24,25,65,6.7,30,430,Single-material composting,No bulking agent,Microbial inoculant,Fixed turning,Fixed continuous aeration,73.45
+0.33,31.5,57.59,6.7,28,60,Single-material composting,Crop stalk,No adjustment,Fixed turning,Fixed intermittent aeration,81.8
+0.35,28.9,54.7,8.5,29,20,Single-material composting,Wood chips,Adjustment of initial C/N or moisture content,Fixed turning,Fixed continuous aeration,76.75
+0.27,20,67,7.21,20,30,Mixed-material composting,Crop stalk,No adjustment,Fixed turning,Fixed continuous aeration,85.01
+0.33,29,61.37,6.2,85,62,Single-material composting,Wood chips,Pretreatment,Variable turning,Fixed continuous aeration,82.99
+0.58,25,61.37,5.7,15,60,Mixed-material composting,Crop stalk,Microbial inoculant,Fixed turning,Fixed continuous aeration,76.81
+0.2,27,70,5.08,40,40,Single-material composting,Wood chips,Microbial inoculant,Fixed turning,Fixed continuous aeration,82.68
+0.25,25,67,5.24,30,60,Single-material composting,Wheat bran,No adjustment,Fixed turning,Fixed continuous aeration,75.65
+0.33,29.53,60.18,7.2933,21,20,Single-material composting,Mixed bulking agents,Microbial inoculant,Fixed turning,Fixed continuous aeration,83.08
+0.33,25.7,61.37,4.87,35,60,Single-material composting,Leaves,No adjustment,Variable turning,Fixed continuous aeration,78.37
+0.4,17,52.44,11.8,42,20,Single-material composting,Wood chips,Physicochemical additive,Fixed turning,Fixed continuous aeration,80.23
+0.25,26.98,60.42,5.2507,30,60,Single-material composting,Other,No adjustment,Fixed turning,Variable continuous aeration,71.38
